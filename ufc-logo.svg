@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>UFC Logo</title>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="72" fill="#05070c"/>
+  <g fill="url(#g)">
+    <path d="M78 145h58v170c0 22 16 37 39 37h19v56h-28c-54 0-88-33-88-88V145z"/>
+    <path d="M214 145h58v207h84v56H214V145z"/>
+    <path d="M394 145h40v56h-40v207h-58V201h-40v-56h98z"/>
+  </g>
+  <rect x="78" y="428" width="356" height="10" rx="5" fill="#ef4444" opacity=".8"/>
+</svg>

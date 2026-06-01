@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>Hackathon Trophy Icon</title>
+  <rect width="512" height="512" rx="72" fill="#0b1020"/>
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#facc15"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gold)" d="M190 100h132v42h48v47c0 46-35 83-80 86-7 25-21 45-34 57v30h58v50H198v-50h58v-30c-13-12-27-32-34-57-45-3-80-40-80-86v-47h48v-42zm0 89h-28c0 22 12 41 31 50-2-16-3-33-3-50zm160 0c0 17-1 34-3 50 19-9 31-28 31-50h-28z"/>
+  <circle cx="256" cy="238" r="32" fill="#111827"/>
+  <text x="256" y="249" text-anchor="middle" font-size="34" font-family="Arial, sans-serif" fill="#facc15" font-weight="700">1</text>
+</svg>
